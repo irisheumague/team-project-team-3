@@ -1,3 +1,3 @@
-import './js/mobile-menu';
+import './js/mobile-menu.js';
+import './js/form.js';
 import './js/modal.js';
-import './js/buy-now-modal';
