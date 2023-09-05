@@ -128,6 +128,11 @@
 .back-text {
   line-height: 1.29;
   text-align: justify;
+  width: 100%;
+  height: 146px;
+  line-height: 1.29;
+  text-align: justify;
+  overflow-y: scroll;
 }
 
 @media screen and (min-width: 768px) {
